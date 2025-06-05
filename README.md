@@ -1,7 +1,7 @@
  👋 Hi there, it's Anna here!
 
 - 👀 interested in crafting immersive digital experiences.
-- 🌱 currently learning React and Node.js.
+- 🌱 currently learning React Native.
 - 💞️ looking to collaborate on innovative web applications.
 - 📫 u can reach me at  hannah.htslk@gmail.com
 - 😄 pronouns: she/her
