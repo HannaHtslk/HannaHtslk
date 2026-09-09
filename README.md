@@ -3,7 +3,7 @@
 - 👀 interested in crafting immersive digital experiences.
 - 🌱 currently learning React Native.
 - 💞️ looking to collaborate on innovative web applications.
-- 📫 u can reach me at  hannah.htslk@gmail.com
+- 📫 u can reach me at  its.anna.karpus@gmail.com
 - 😄 pronouns: she/her
 - ⚡ fun fact: guessing the taste descriptors of my filter coffee is a hobby of mine
 
