@@ -1,7 +1,6 @@
  👋 Hi there, it's Anna here!
 
 - 👀 interested in crafting immersive digital experiences.
-- 🌱 currently learning React Native.
 - 💞️ looking to collaborate on innovative web applications.
 - 📫 u can reach me at  its.anna.karpus@gmail.com
 - 😄 pronouns: she/her
